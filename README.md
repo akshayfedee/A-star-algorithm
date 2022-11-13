@@ -3,6 +3,8 @@
 
 Complex world making a better enemy using the A* algorithm to catch the Agent :
 
+Need Reloads for all the pages.
+
 https://run.ancientbrain.com/run.php?world=1501174803&mind=1937063776
 
 
