@@ -26,6 +26,8 @@ At the top of the code put these parameters that I can experiment with:
 WALLMOVENO - number of wall blocks that will move, from 0 upwards.
 WALLMOVETICK - wall blocks move every WALLMOVETICK timesteps. Zero for never.
 Still draw the paths on screen, so we can watch the enemy route around moving walls.
+
+NEED TO COMMIT TO WORLD 2 CODES
   
 Document and submission
 Write a short document to explain your program. Point out anything I need to notice.
