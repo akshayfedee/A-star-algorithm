@@ -9,7 +9,7 @@
 
 // Description: AB Starter World with addtional functions whenever the logicalMoveEnemy() function is called.
 // The A* function uses a standalone grid made up of objects containg the A data elements, including the hueristic,
-// distance. By Toyatma Fedee Student number 222***85 as part of 
+// distance. By Toyatma Fedee Student number *22***85 as part of 
 // 2022/2023 CA686I Foundations of Artificial Intelligence
 
 
